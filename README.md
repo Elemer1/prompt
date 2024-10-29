@@ -47,3 +47,16 @@ The final prompt you output should adhere to the following structure below. Do n
 [optional: edge cases, details, and an area to call or repeat out specific important considerations]
 """.
 ```
+
+Writing
+```
+Read carefully and identify any parts of the writing that may be difficult for a lay audience to understand.
+```
+
+```
+What suggestions do you have to enhance the clarity of my text?
+```
+
+```
+Please provide detailed feedback on the flow and sequence of the writing.
+```
